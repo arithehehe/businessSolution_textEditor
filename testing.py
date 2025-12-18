@@ -4,6 +4,7 @@ from tkinter import scrolledtext
 
 # Creating tkinter main window
 win = tk.Tk()
+win.title("ScrolledText Widget")
 
 # Title Label
 ttk.Label(win, 
